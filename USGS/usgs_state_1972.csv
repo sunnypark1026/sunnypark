@@ -1,0 +1,53 @@
+State,State Debt,,Local Debt,,State and Local Debt,,Gross State Product,,Real State Growth %,,Population (million), 
+Alabama,0.8,a,1.7,a,2.5,a,15.4,a,8,a,3.5,i
+Alaska,0.4,a,0.4,a,0.8,a,2.7,a,3.6,a,0.3,i
+Arizona,0.1,a,1.2,a,1.2,a,11.3,a,12.2,a,1.9,i
+Arkansas,0.1,a,0.9,a,1,a,8.5,a,9.4,a,2,i
+California,6.1,a,11.9,a,18,a,133.1,a,6,a,20.7,i
+Colorado,0.1,a,1.2,a,1.4,a,13.8,a,10.1,a,2.3,i
+Connecticut,2.4,a,1.7,a,4.1,a,18.8,a,5.2,a,3,i
+Delaware,0.5,a,0.3,a,0.8,a,4,a,5.4,a,0.6,i
+District of Columbia,0,a,0.8,a,0.8,a,9.9,a,3.3,a,0.7,i
+Florida,1.1,a,3.5,a,4.6,a,39.7,a,11.4,a,7.3,i
+Georgia,1,a,1.9,a,2.9,a,24.6,a,9.4,a,4.8,i
+Hawaii,0.8,a,0.3,a,1.1,a,5.6,a,3.9,a,0.8,i
+Idaho,0,a,0.2,a,0.2,a,3.8,a,10.8,a,0.8,i
+Illinois,1.8,a,6,a,7.8,a,73.5,a,4.6,a,11.2,i
+Indiana,0.6,a,1.9,a,2.5,a,30,a,6.8,a,5.3,i
+Iowa,0.1,a,1,a,1.1,a,15.3,a,7.4,a,2.8,i
+Kansas,0.2,a,1.1,a,1.3,a,12.1,a,7.4,a,2.3,i
+Kentucky,1.8,a,1.5,a,3.3,a,16.9,a,4.2,a,3.3,i
+Louisiana,1.1,a,2.3,a,3.5,a,20.3,a,4.4,a,3.8,i
+Maine,0.3,a,0.3,a,0.5,a,4.6,a,5.4,a,1,i
+Maryland,1.4,a,2.5,a,4,a,22.6,a,5.9,a,4,i
+Massachusetts,2.3,a,3.1,a,5.4,a,33.8,a,4.6,a,5.7,i
+Michigan,1.4,a,5.3,a,6.6,a,56.6,a,4.9,a,9,i
+Minnesota,0.6,a,3,a,3.6,a,21.9,a,4.9,a,3.9,i
+Mississippi,0.5,a,0.8,a,1.3,a,9.2,a,11.1,a,2.3,i
+Missouri,0.1,a,2.4,a,2.5,a,26.4,a,4.4,a,4.7,i
+Montana,0.1,a,0.2,a,0.3,a,3.7,a,11.7,a,0.7,i
+Nebraska,0.1,a,1.5,a,1.6,a,8.5,a,6.2,a,1.5,i
+Nevada,0.1,a,0.4,a,0.5,a,4,a,5.9,a,0.5,i
+New Hampshire,0.2,a,0.3,a,0.4,a,3.6,a,4.3,a,0.8,i
+New Jersey,2.6,a,4.1,a,6.6,a,45.4,a,5.3,a,7.2,i
+New Mexico,0.1,a,0.3,a,0.4,a,5.4,a,7.5,a,1.1,i
+New York,10.7,a,21,a,31.7,a,127.2,a,2.4,a,18.1,i
+North Carolina,0.5,a,1.5,a,2,a,28,a,7.2,a,5.2,i
+North Dakota,0.1,a,0.2,a,0.3,a,3.1,a,12.1,a,0.6,i
+Ohio,2.1,a,5.1,a,7.3,a,62.9,a,4.1,a,10.7,i
+Oklahoma,0.8,a,1.1,a,1.9,a,12.7,a,8.3,a,2.6,i
+Oregon,0.9,a,0.9,a,1.8,a,12.2,a,7.8,a,2.2,i
+Pennsylvania,4.3,a,6.5,a,10.8,a,65.4,a,4,a,11.8,i
+Rhode Island,0.4,a,0.4,a,0.8,a,5.1,a,6.6,a,0.9,i
+South Carolina,0.5,a,0.8,a,1.3,a,11.9,a,8.1,a,2.7,i
+South Dakota,0,a,0.1,a,0.1,a,3,a,9.9,a,0.7,i
+Tennessee,0.6,a,2.5,a,3.1,a,20.3,a,9.1,a,4.1,i
+Texas,1.3,a,7.5,a,8.8,a,64,a,7,a,11.7,i
+All states combined,54,a,120,a,174,a,"1,279.10",a,5.3,a,207.8,i
+Utah,0.1,a,0.4,a,0.5,a,5.6,a,8.8,a,1.1,i
+Vermont,0.3,a,0.2,a,0.5,a,2.3,a,3.6,a,0.5,i
+Virginia,0.4,a,2.4,a,2.8,a,26.1,a,7.9,a,4.8,i
+Washington,1,a,3.7,a,4.7,a,20.5,a,4.7,a,3.5,i
+West Virginia,0.7,a,0.3,a,1,a,8.4,a,5.8,a,1.8,i
+Wisconsin,0.8,a,2,a,2.8,a,24.1,a,4.5,a,4.5,i
+Wyoming,0,a,0.2,a,0.2,a,2.4,a,7.5,a,0.4,i
